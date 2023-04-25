@@ -1,0 +1,1 @@
+# Scroll-Progress: Scroll Progress Bar is an indicator to show the position the user is on the page. The scroll indicator at the top of the page shows how far the page is scrolled. In terms of the user interface, the page scroll progress bar is very useful to display the scrolling percentage in a graphical view.
